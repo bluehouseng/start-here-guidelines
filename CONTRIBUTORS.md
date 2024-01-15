@@ -1,7 +1,10 @@
 <!-- write fullname in [] and link to github account in () -->
-  * [Gar Manji Michael](https://github.com/mbragi)
+ * [Gar Manji Michael](https://github.com/mbragi)
+  * [WENG LUKA](https://github.com/wengluka)
   * [victor ifeanyi ezeabikwa](https://github.com/Vjfrontend)
+   * [ Dako ishaku](https://github.com/Dakoishaku69)
   * [Mandyang sunday solomon](https://github.com/)
   * [David Rotshak Zebedee](https://github.com/Spydacom)
-
-  
+  * [Mwanful Felix Jah](https://github.com/Mwanful070)
+  * [Unubi Mercy Ojomah](https://github.com/Omah-Mercy05/start-here-guidelines)
+  * [Longji Paul Benshak](https://github.com/Leeyung1)
